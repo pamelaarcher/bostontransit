@@ -16,9 +16,6 @@ This web app displays the transit stations for the Boston Green and Red Lines as
 ## Setting Up and Running The Application
 
 ### About
-
-There is only 3 main files for this project including styles.css, index.html and mapanimation.js.   There are also 3 images used that can be found in the images folder.   You can download these files and run index.html from your local machine or the project can be ran from github at https://pamelaarcher.github.io/bostontransit
-
 This application is made up of 3 main files and an images directory
   - <b>styles.css</b> which includes the classes for the button, map as well as station and bus markers.
   - <b>index.html</b> which provides the links to bring in the <b>Mapbox</b> server map of Boston and calls the move() on button click to bring in new transit data
