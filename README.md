@@ -11,7 +11,7 @@
 ## Description
 This web app displays the transit stations for the Boston Green and Red Lines as well as current vehicles in route.  Clicking on the button above will move the vehicles using real time data from the MBTA server via a JSON call.  Due to the amount of data, the application only pulls data for all vehicles that are currently active on the Red transit Line.
 
-<img src="./images/bostontransit.png">
+<img src="./images/BostonTransit.png">
 
 ## Setting Up and Running The Application
 
